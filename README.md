@@ -1,0 +1,2 @@
+# GDSC-Django
+AASTU STUDENT
